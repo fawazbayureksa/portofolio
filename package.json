@@ -1,0 +1,16 @@
+{
+  "name": "portofolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss build ./src/css/style.css -o ./public/css/taildwin.css"
+     },
+  "author": "Fawwaz Bayureksa",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.4",
+    "tailwindcss": "^2.0.2"
+  }
+}
